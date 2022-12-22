@@ -1,0 +1,15 @@
+C:\Users\Zver\Documents\С#\ракета обыкновенная\bin\Debug\net6.0\ракета обыкновенная.exe
+C:\Users\Zver\Documents\С#\ракета обыкновенная\bin\Debug\net6.0\ракета обыкновенная.deps.json
+C:\Users\Zver\Documents\С#\ракета обыкновенная\bin\Debug\net6.0\ракета обыкновенная.runtimeconfig.json
+C:\Users\Zver\Documents\С#\ракета обыкновенная\bin\Debug\net6.0\ракета обыкновенная.dll
+C:\Users\Zver\Documents\С#\ракета обыкновенная\bin\Debug\net6.0\ракета обыкновенная.pdb
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.csproj.AssemblyReference.cache
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.AssemblyInfoInputs.cache
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.AssemblyInfo.cs
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.dll
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\refint\ракета обыкновенная.dll
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.pdb
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ракета обыкновенная.genruntimeconfig.cache
+C:\Users\Zver\Documents\С#\ракета обыкновенная\obj\Debug\net6.0\ref\ракета обыкновенная.dll
