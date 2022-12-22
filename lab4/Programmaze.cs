@@ -1,4 +1,4 @@
-﻿using System.Threading;
+using System.Threading;
 
 Console.Clear();
 
@@ -34,13 +34,17 @@ while (m.Count < 10 && n.Count < 10)
     }
     else if(m.Count == 10){
         Console.Clear();
-        Console.SetCursorPosition(35, 7);
+        Console.SetCursorPosition(12, 5);
         Console.WriteLine($"Поздравляю, первый игрок! Вы собрали все {m.Count} монет!");
+        Console.SetCursorPosition(12, 10);
+        Console.WriteLine();
     }
     else if(n.Count == 10){
         Console.Clear();
-        Console.SetCursorPosition(35, 7);
+        Console.SetCursorPosition(12, 5);
         Console.WriteLine($"Поздравляю, второй игрок! Вы собрали все {n.Count} монет!");
+        Console.SetCursorPosition(12, 10);
+        Console.WriteLine();
     }
     
 }
